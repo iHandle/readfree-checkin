@@ -1,9 +1,9 @@
 ## readfree自动签到脚本
 
 使用cookie的readfree自动签到脚本，支持将结果推动到手机.
+
  
- 
- 
+
 ## 使用方法
 
 ### 修改脚本
@@ -32,3 +32,6 @@
 注意检查Linux的时区是否为东8区. 否则crontab执行脚本的时间会与你设想的时间不一样.
 
 	date -R
+
+### 参考
+[readfree.me 自动签到脚本获取免费积分](http://yangyingming.com/article/381/)
