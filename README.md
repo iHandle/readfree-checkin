@@ -19,15 +19,15 @@
 
 根据`readfree.py`放置的目录给crontab添加以下格式的定时计划:
 
-	`@daily python PATH_TO_YOUR_readfree.py >/dev/null 2>&1`
+	@daily python PATH_TO_YOUR_readfree.py >/dev/null 2>&1
 
 假如你的`readfree.py`文件是放在目录`/home/abc`下的，那么以上命令应该改为:
 
-	`@daily python /home/abc/readfree.py >/dev/null 2>&1`
+	@daily python /home/abc/readfree.py >/dev/null 2>&1
 
-（`>/dev/null 2>&1` 语句含义: 不会输出任何信息到控制台，也不会有任何信息输出到文件中。）
+`>/dev/null 2>&1` 语句含义: 不会输出任何信息到控制台，也不会有任何信息输出到文件中。
 
 ### 注意事项
 注意检查Linux的时区是否为东8区. 否则crontab执行脚本的时间会与你设想的时间不一样.
 
-	`date -R`
+	date -R
