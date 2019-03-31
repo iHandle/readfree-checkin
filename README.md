@@ -1,6 +1,6 @@
 ## readfree自动签到脚本
 
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 使用cookie的readfree自动签到脚本，支持将结果推动到手机.
 
