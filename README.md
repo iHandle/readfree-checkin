@@ -1,15 +1,15 @@
-## readfree自动签到脚本
+## Readfree自动签到脚本
 
 
-使用cookie的readfree自动签到脚本，支持将结果推动到手机.
+使用cookie的Readfree自动签到脚本，支持将结果推动到手机.
 
  
 
 ## 使用方法
 
 ### 修改脚本
-1. `cookie`字典有三处标记了[此处需要修改]的地方.使用Chrome等浏览器手动登录readfree后可以获取cookie，然后根据对应的字段修改字典的值.（ [Chrome查看cookie参考](https://www.cnblogs.com/zj0208/p/6249759.html) ）
-2. 将`confirm_url`中标记为[此处需要修改为你的readfree用户名]修改好.
+1. `cookie`字典有三处标记了[此处需要修改]的地方.使用Chrome等浏览器手动登录Readfree后可以获取cookie，然后根据对应的字段修改字典的值.（ [Chrome查看cookie参考](https://www.cnblogs.com/zj0208/p/6249759.html) ）
+2. 将`confirm_url`中标记为[此处需要修改为你的Readfree用户名]修改好.
 3. 如果需要使用Bark推送，根据注释修改`push_url`，然后去掉第`24`和`54`行代码的注释.（[Bark使用方法](https://github.com/Finb/Bark/blob/master/README.md)）
 
 ### 依赖部署(已部署的请忽略)
