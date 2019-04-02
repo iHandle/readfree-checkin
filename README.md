@@ -34,5 +34,5 @@
 
 	date -R
 
-### 博客:
+### 博客
 [readfree.me自动签到脚本(python)](https://www.jianshu.com/p/2828d36b9ba5)
