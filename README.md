@@ -1,7 +1,7 @@
 ## Readfree自动签到脚本
 
 
-使用cookie的Readfree自动签到脚本，支持将结果推动到手机.
+使用cookie的Readfree自动签到脚本，支持将签到结果推动到iPhone.
 
  
 
@@ -34,5 +34,5 @@
 
 	date -R
 
-### 参考
-[readfree.me 自动签到脚本获取免费积分](http://yangyingming.com/article/381/)
+### 博客:
+[readfree.me自动签到脚本(python)](https://www.jianshu.com/p/2828d36b9ba5)
