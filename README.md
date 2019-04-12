@@ -17,7 +17,7 @@
 2. 依赖模块: `pip install beautifulsoup4, requests`
 
 ### 定时运行
-以Linux为例，使用crontab定时运行脚本，每天`00:00`的时候就会自动签到.（[crontab教程](http://www.runoob.com/linux/linux-tutorial.html)）
+以Linux为例，使用crontab定时运行脚本，每天`00:00`的时候就会自动签到.（[crontab教程](http://www.runoob.com/linux/linux-comm-crontab.html)）
 
 根据`readfree.py`放置的目录给crontab添加以下格式的定时计划:
 
