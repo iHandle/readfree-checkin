@@ -34,7 +34,7 @@ def confirm(cookie):
     date = time.strftime("%Y-%m-%d", time.localtime())
 
     if latest_time.text.startswith(date):
-        message = '本次签到获得' + latest_score.text[1:] + '个积分，累计积分：' + total_score
+        message = '本次签到获得' + latest_score.text[1:] + '个积分，累计积分：' + total_score.text
         return message
 
     else:
