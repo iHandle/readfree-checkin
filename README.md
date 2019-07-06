@@ -1,5 +1,7 @@
 ## Readfree自动签到脚本
 
+更新：现在readfree.me网站已关闭。
+
 使用cookie的Readfree自动签到脚本，支持将签到结果推动到iPhone.
 
 PS: 现在Readfree的cookie有效期只有一周，所以如果你要什么更好的解决办法，欢迎一起讨论.
