@@ -1,6 +1,7 @@
 ## Readfree自动签到脚本
 
-更新：现在readfree.me网站已关闭。
+【更新】现在readfree.me网站已关闭。
+ 
 
 使用cookie的Readfree自动签到脚本，支持将签到结果推动到iPhone.
 
