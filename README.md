@@ -1,7 +1,8 @@
 ## Readfree自动签到脚本
 
-【更新】现在readfree.me网站已关闭。
- 
+### 更新
+再见了
+![](https://i.bmp.ovh/imgs/2019/07/0c846576cb6866df.png)
 
 使用cookie的Readfree自动签到脚本，支持将签到结果推动到iPhone.
 
