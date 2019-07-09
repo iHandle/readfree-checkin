@@ -59,8 +59,6 @@ print(result)
 ## 将签到结果推送到手机的Bark app(可选功能)
 ## 如果你的Bark app里显示的推送链接是 https://api.day.app/abcdefg/这里改成你自己的推送内容
 ## push_url 就设置为'https://api.day.app/abcdefg/'
-## 推送的内容由后面的message变量提供
-## 将结果推送的Bark app(可选功能)
 
 # bark_url = '[此处需要修改Bark推送链接]'
 # requests.post(bark_url+result)
